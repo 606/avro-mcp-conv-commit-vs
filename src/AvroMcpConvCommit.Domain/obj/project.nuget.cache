@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9gv9yfUSDIU=",
+  "dgSpecHash": "uv/EW+fgRR4=",
   "success": true,
   "projectFilePath": "C:\\Repos\\avro-mcp-conv-commit-vscode\\src\\AvroMcpConvCommit.Domain\\AvroMcpConvCommit.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

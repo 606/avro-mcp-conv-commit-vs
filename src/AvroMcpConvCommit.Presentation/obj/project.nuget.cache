@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AFhi/FNTWuI=",
+  "dgSpecHash": "PZRqA5zw3FQ=",
   "success": true,
   "projectFilePath": "C:\\Repos\\avro-mcp-conv-commit-vscode\\src\\AvroMcpConvCommit.Presentation\\AvroMcpConvCommit.Presentation.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,12 @@
     "C:\\Users\\rze\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
     "C:\\Users\\rze\\.nuget\\packages\\modelcontextprotocol\\0.4.0-preview.1\\modelcontextprotocol.0.4.0-preview.1.nupkg.sha512",
     "C:\\Users\\rze\\.nuget\\packages\\modelcontextprotocol.core\\0.4.0-preview.1\\modelcontextprotocol.core.0.4.0-preview.1.nupkg.sha512",
-    "C:\\Users\\rze\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.9\\system.diagnostics.eventlog.9.0.9.nupkg.sha512"
+    "C:\\Users\\rze\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.9\\system.diagnostics.eventlog.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\system.net.serversentevents\\10.0.0-preview.4.25258.110\\system.net.serversentevents.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\rze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.9\\microsoft.netcore.app.host.win-x64.9.0.9.nupkg.sha512"
   ],
   "logs": []
 }

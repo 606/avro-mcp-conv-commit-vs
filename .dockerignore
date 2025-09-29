@@ -1,0 +1,16 @@
+**/bin
+**/obj
+**/out
+**/.vs
+**/.vscode
+**/nupkg
+**/publish
+**/*.user
+**/*.tmp
+**/node_modules
+**/.git
+**/.gitignore
+**/README.md
+**/get-commits.*
+**/*.bat
+**/*.ps1

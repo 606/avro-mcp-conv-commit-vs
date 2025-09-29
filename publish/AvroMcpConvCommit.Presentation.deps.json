@@ -1,11 +1,11 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v10.0",
+    "name": ".NETCoreApp,Version=v9.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v10.0": {
+    ".NETCoreApp,Version=v9.0": {
       "AvroMcpConvCommit.Presentation/1.0.0": {
         "dependencies": {
           "AvroMcpConvCommit.Application": "1.0.0",
@@ -399,7 +399,8 @@
       "ModelContextProtocol.Core/0.4.0-preview.1": {
         "dependencies": {
           "Microsoft.Extensions.AI.Abstractions": "9.9.1",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.9"
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.9",
+          "System.Net.ServerSentEvents": "10.0.0-preview.4.25258.110"
         },
         "runtime": {
           "lib/net9.0/ModelContextProtocol.Core.dll": {
@@ -427,6 +428,14 @@
             "assetType": "runtime",
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.925.41916"
+          }
+        }
+      },
+      "System.Net.ServerSentEvents/10.0.0-preview.4.25258.110": {
+        "runtime": {
+          "lib/net9.0/System.Net.ServerSentEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.25910"
           }
         }
       },
@@ -684,6 +693,13 @@
       "sha512": "sha512-wpsUfnyv8E5K4WQaok6weewvAbQhcLwXFcHBm5U0gdEaBs85N//ssuYvRPFWwz2rO/9/DFP3A1sGMzUFBj8y3w==",
       "path": "system.diagnostics.eventlog/9.0.9",
       "hashPath": "system.diagnostics.eventlog.9.0.9.nupkg.sha512"
+    },
+    "System.Net.ServerSentEvents/10.0.0-preview.4.25258.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5SG8yFN0e6y3VVaCMWSRYdDW15Apzg2LQoYUtl+jFrGb/+RLSMYmIdU9hO1hbHqpU0JD/lfBlCox0FebdAGGOQ==",
+      "path": "system.net.serversentevents/10.0.0-preview.4.25258.110",
+      "hashPath": "system.net.serversentevents.10.0.0-preview.4.25258.110.nupkg.sha512"
     },
     "AvroMcpConvCommit.Application/1.0.0": {
       "type": "project",
