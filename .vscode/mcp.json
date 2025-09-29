@@ -1,24 +1,25 @@
 {
-	"inputs": [
-		{
-			"type": "promptString",
-			"id": "github_mcp_pat",
-			"description": "GitHub Personal Access Token",
-			"password": true
-		}
-	],
-	"servers": {
-		"github": {
-			"type": "stdio",
-			"command": "docker",
-			"args": [
-				"run", "-i", "--rm", 
-				"-e", "GITHUB_PERSONAL_ACCESS_TOKEN=${input:github_mcp_pat}",
-				"ghcr.io/github/github-mcp-server"
-			]
-		},
-		"avro-mcp-conv-commit": {
-			"command": "avro-mcp-conv-commit"
-		}
-	}
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "github_mcp_pat",
+      "description": "GitHub Personal Access Token",
+      "password": true
+    }
+  ],
+  "servers": {
+    "github": {
+      "type": "stdio",
+      "command": "docker",
+      "args": [
+        "run", "-i", "--rm", 
+        "-e", "GITHUB_PERSONAL_ACCESS_TOKEN=${input:github_mcp_pat}",
+        "ghcr.io/github/github-mcp-server"
+      ]
+    },
+    "avro-mcp-conv-commit": {
+      "type": "sse",
+      "url": "http://127.0.0.1:47925/sse"
+    }
+  }
 }
