@@ -1,0 +1,11 @@
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\bin\Debug\net10.0\AvroMcpConvCommit.Domain.deps.json
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\bin\Debug\net10.0\AvroMcpConvCommit.Domain.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\bin\Debug\net10.0\AvroMcpConvCommit.Domain.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.AssemblyInfoInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.AssemblyInfo.cs
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\refint\AvroMcpConvCommit.Domain.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\AvroMcpConvCommit.Domain.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Domain\obj\Debug\net10.0\ref\AvroMcpConvCommit.Domain.dll

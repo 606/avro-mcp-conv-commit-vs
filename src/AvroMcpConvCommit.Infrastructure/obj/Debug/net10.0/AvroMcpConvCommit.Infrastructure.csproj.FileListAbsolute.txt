@@ -1,0 +1,17 @@
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Infrastructure.deps.json
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Infrastructure.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Infrastructure.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Application.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Domain.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Application.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\bin\Debug\net10.0\AvroMcpConvCommit.Domain.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.csproj.AssemblyReference.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.AssemblyInfoInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.AssemblyInfo.cs
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpC.EE76B02A.Up2Date
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\refint\AvroMcpConvCommit.Infrastructure.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\AvroMcpConvCommit.Infrastructure.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Infrastructure\obj\Debug\net10.0\ref\AvroMcpConvCommit.Infrastructure.dll

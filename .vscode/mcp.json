@@ -1,0 +1,8 @@
+{
+	"inputs": [],
+	"servers": {
+		"avro-mcp-conv-commit": {
+			"command": "avro-mcp-conv-commit"
+		}
+	}
+}

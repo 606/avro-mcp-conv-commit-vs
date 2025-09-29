@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AvroMcpConvCommit.Application\AvroMcpConvCommit.Application.csproj" />
+    <ProjectReference Include="..\AvroMcpConvCommit.Infrastructure\AvroMcpConvCommit.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.9" />
+    <PackageReference Include="ModelContextProtocol" Version="0.4.0-preview.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>avro-mcp-conv-commit</ToolCommandName>
+    <PackageId>AvroMcpConvCommit</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>YourName</Authors>
+    <Description>MCP server for conventional commit naming</Description>
+  </PropertyGroup>
+
+</Project>

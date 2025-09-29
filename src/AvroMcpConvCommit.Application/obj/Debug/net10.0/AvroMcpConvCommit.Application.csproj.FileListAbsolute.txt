@@ -1,0 +1,15 @@
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\bin\Debug\net10.0\AvroMcpConvCommit.Application.deps.json
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\bin\Debug\net10.0\AvroMcpConvCommit.Application.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\bin\Debug\net10.0\AvroMcpConvCommit.Application.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\bin\Debug\net10.0\AvroMcpConvCommit.Domain.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\bin\Debug\net10.0\AvroMcpConvCommit.Domain.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.csproj.AssemblyReference.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.AssemblyInfoInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.AssemblyInfo.cs
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.csproj.CoreCompileInputs.cache
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpC.F07069B2.Up2Date
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\refint\AvroMcpConvCommit.Application.dll
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\AvroMcpConvCommit.Application.pdb
+C:\Repos\avro-mcp-conv-commit-vscode\src\AvroMcpConvCommit.Application\obj\Debug\net10.0\ref\AvroMcpConvCommit.Application.dll
