@@ -17,4 +17,4 @@ WORKDIR /app
 COPY --from=build /app/publish .
 
 # Set the entrypoint
-ENTRYPOINT ["dotnet", "AvroMcpConvCommit.dll"]
+ENTRYPOINT ["dotnet", "AvroMcpConvCommit.Presentation.dll"]
